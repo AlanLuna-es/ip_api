@@ -1,0 +1,112 @@
+[
+    {
+        "query": "208.65.153.238",
+        "pais": "United States",
+        "region": "California",
+        "isp": "Google Ireland Limited",
+        "coordenadas": {
+            "latitud": 37.422,
+            "longitud": -122.084
+        }
+    },
+    {
+        "query": "142.250.217.110",
+        "pais": "United States",
+        "region": "Washington",
+        "isp": "Google LLC",
+        "coordenadas": {
+            "latitud": 47.6061,
+            "longitud": -122.333
+        }
+    },
+    {
+        "query": "1.1.1.1",
+        "pais": "Australia",
+        "region": "Queensland",
+        "isp": "Cloudflare, Inc",
+        "coordenadas": {
+            "latitud": -27.4766,
+            "longitud": 153.0166
+        }
+    },
+    {
+        "query": "2.2.2.2",
+        "pais": "France",
+        "region": "Île-de-France",
+        "isp": "France Telecom Orange",
+        "coordenadas": {
+            "latitud": 48.8309,
+            "longitud": 2.26582
+        }
+    },
+    {
+        "query": "185.88.181.54",
+        "pais": "The Netherlands",
+        "region": "North Holland",
+        "isp": "DigitalOcean, LLC",
+        "coordenadas": {
+            "latitud": 52.3759,
+            "longitud": 4.8975
+        }
+    },
+    {
+        "query": "66.254.114.41",
+        "pais": "United States",
+        "region": "New York",
+        "isp": "Reflected Networks, Inc.",
+        "coordenadas": {
+            "latitud": 40.7128,
+            "longitud": -74.006
+        }
+    },
+    {
+        "query": "162.159.140.229",
+        "pais": "Canada",
+        "region": "Ontario",
+        "isp": "Cloudflare, Inc.",
+        "coordenadas": {
+            "latitud": 43.6532,
+            "longitud": -79.3832
+        }
+    },
+    {
+        "query": "31.13.66.174",
+        "pais": "United States",
+        "region": "Virginia",
+        "isp": "Facebook, Inc.",
+        "coordenadas": {
+            "latitud": 39.0469,
+            "longitud": -77.4903
+        }
+    },
+    {
+        "query": "72.163.4.185",
+        "pais": "United States",
+        "region": "Texas",
+        "isp": "CISCO SYSTEMS, INC.",
+        "coordenadas": {
+            "latitud": 32.9473,
+            "longitud": -96.7028
+        }
+    },
+    {
+        "query": "13.226.184.51",
+        "pais": "United States",
+        "region": "Virginia",
+        "isp": "Amazon.com, Inc.",
+        "coordenadas": {
+            "latitud": 39.0438,
+            "longitud": -77.4874
+        }
+    },
+    {
+        "query": "23.201.96.144",
+        "pais": "United States",
+        "region": "Texas",
+        "isp": "Akamai International B.V.",
+        "coordenadas": {
+            "latitud": 32.7797,
+            "longitud": -96.8022
+        }
+    }
+]
